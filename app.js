@@ -1,4 +1,4 @@
-HEADrequire("dotenv").config();
+require("dotenv").config();
 require("express-async-errors");
 const path = require("path");
 
