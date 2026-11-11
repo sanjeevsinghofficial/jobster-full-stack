@@ -4,6 +4,8 @@
 
 The starter is a copy of jobs-api final project, just with additional data.
 
+Demo Link: [Click Here](https://jobster-full-stack-cyeg.onrender.com/)
+
 #### Setup
 
 - navigate to 06.5-jobster-api/starter
